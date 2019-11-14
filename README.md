@@ -717,7 +717,7 @@ Con estos resultados se observa que, en comparación con las elecciones primaria
 Este resultado fue calculado el domingo 27/10/2019 a horas 19:23, antes de conocerse los resultados oficiales de las elecciones.  
 Para los escépticos adjuntamos la siguiente conversación de nuestro grupo de wsp (para los más escepticos podemos prestarles nuestros teléfonos para verificar la charla sin ningún problema :D):  
 
-![](/imagenes/prueba.png)
+![](/imagenes/prueba.jpeg)
 ![](/imagenes/tabu.jpeg)
 
 Luego de publicarse los escrutinios finales, se pudo llevar a cabo la comparación. En la siguiente tabla se adjuntan los resultados reales ocurridos en las elecciones del 27/10/2019:
