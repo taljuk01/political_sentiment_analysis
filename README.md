@@ -1,6 +1,3 @@
-# Sentiment_Analysis_Politica-Argentina
-
- 
 ___
 <p align="center">
    <b>ANALISIS DE SENTIMIENTOS POLÍTICOS EN TWITTER</b><br><br>
