@@ -13,6 +13,12 @@ Este proyecto se basa en la aplicación de técnicas de procesamiento del lengua
 Hacer Sentiment Analysis en inglés es muy fácil ya que hay múltiples paquetes que vienen con modelos preparados para calcular el sentimiento o polaridad de un nuevo texto, como TextBlob o word2vec.  
 Sin embargo, para el idioma español la información es escasa, así que en este trabajo se creará un modelo predictivo propio.
 El objetivo será contrastar los resultados ocurridos en las PASO 2019 e intentar predecir los resultados de las elecciones presidenciales del 27 de octubre llevadas a cabo en Argentina.
+___
+Para los que no tengan ganas de leer código, adjuntamos un link hacia nuestra publicación científica:
+- [Paper: ¿Que paso en las PASO? Descifrando el sentimiento político con Machine Learning](https://drive.google.com/open?id=1qHfM_APQ4BTpzUdQc7X_51RGU5Mpi5De)
+___
+
+Los interesados en el código pueden seguir deslizando hacia abajo:
 
 ### Prerequisitos
 - Conocimientos de estructuras de datos y bucles condicionales con Python (listas, tuplas,diccionarios, ciclo for, if)
@@ -77,6 +83,7 @@ El objetivo será contrastar los resultados ocurridos en las PASO 2019 e intenta
    - Paso E.1: Metodo del vote share para predecir elecciones 
    - Paso E.2: Predicción de los resultados electorales del 27 de octubre (obvio sin conocer los datos oficiales)
    - Paso E.3: Creación de una Wordcloud (nube de palabras, o palabras con mas frecuencia en los tweets)
+ - Conclusiones
       
 ### Antes de empezar definamos lo siguiente: ¿Que es el analisis de sentimientos?
 
