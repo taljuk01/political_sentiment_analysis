@@ -9,10 +9,7 @@ ___
 </p>
 
 ___
-Este proyecto se basa en la aplicación de técnicas de procesamiento del lenguaje natural (conocido como NLP por sus siglas en inglés) en combinación con algoritmos supervisados de Machine Learning para realizar un análisis de sentimientos de miles de Tweets relacionados a política argentina.  
-Hacer Sentiment Analysis en inglés es muy fácil ya que hay múltiples paquetes que vienen con modelos preparados para calcular el sentimiento o polaridad de un nuevo texto, como TextBlob o word2vec.  
-Sin embargo, para el idioma español la información es escasa, así que en este trabajo se creará un modelo predictivo propio.
-El objetivo será contrastar los resultados ocurridos en las PASO 2019 e intentar predecir los resultados de las elecciones presidenciales del 27 de octubre llevadas a cabo en Argentina.
+En este trabajo se aplicaron técnicas de aprendizaje automático (Machine Learning) en combinación con Natural Language Processing a un conjunto de miles de tweets recolectados previamente a las fechas de la elecciones del 11/08/2019 y del 27/10/2019, con el fin de categorizarlos de modo automático bajo las etiquetas positivo, negativo o ambiguo y, de este modo, intentar brindar una respuesta a la inquietud de si los mensajes intercambiados en esta plataforma online reflejan verosímilmente sentimientos acerca de la política manifestados de manera offline. Quedaría planteada la interrogante en vistas a futuras investigaciones, si un análisis como el de este trabajo, representa un alternativa costo-eficiente y más precisa a las encuestadoras tradicionales.
 ___
 Para los que no tengan ganas de leer código, adjuntamos un link hacia nuestra publicación científica:
 - [Paper: ¿Que paso en las PASO? Descifrando el sentimiento político con Machine Learning](https://drive.google.com/open?id=1qHfM_APQ4BTpzUdQc7X_51RGU5Mpi5De)
