@@ -9,10 +9,11 @@ ___
 </p>
 
 ___
+## Introducción
 En este trabajo se aplicaron técnicas de aprendizaje automático (Machine Learning) en combinación con Natural Language Processing a un conjunto de miles de tweets recolectados previamente a las fechas de la elecciones del 11/08/2019 y del 27/10/2019, con el fin de categorizarlos de modo automático bajo las etiquetas positivo, negativo o ambiguo y, de este modo, intentar brindar una respuesta a la inquietud de si los mensajes intercambiados en esta plataforma online reflejan verosímilmente sentimientos acerca de la política manifestados de manera offline. Quedaría planteada la interrogante en vistas a futuras investigaciones, si un análisis como el de este trabajo, representa un alternativa costo-eficiente y más precisa a las encuestadoras tradicionales.
 ___
 Para los que no tengan ganas de leer código, adjuntamos un link hacia nuestra publicación científica:
-- [Paper: ¿Que paso en las PASO? Descifrando el sentimiento político con Machine Learning](https://drive.google.com/open?id=1qHfM_APQ4BTpzUdQc7X_51RGU5Mpi5De)
+- [Paper: ¿Que pasó en las PASO? Descifrando el sentimiento político con Machine Learning](https://drive.google.com/open?id=1qHfM_APQ4BTpzUdQc7X_51RGU5Mpi5De)
 ___
 
 Los interesados en el código pueden seguir deslizando hacia abajo:
@@ -456,7 +457,7 @@ La métrica elegida para evaluar el modelo fue mediante su "accuracy" (porcentaj
 Tras evaluar varios modelos, el algoritmo OneVsRest Linear SVC fue el que otorgó mejores resultados. Para comprender un poco mejor como funcionan el algoritmo SVC y la técnica One Vs Rest dejamos estos dos enlaces:
 - [Técnica One Vs Rest](https://prakhartechviz.blogspot.com/2019/02/multi-label-classification-python.html)
 - [Linear SVC](https://www.youtube.com/watch?v=N1vOgolbjSc&t=591s)
-- [Paper: ¿Que paso en las PASO?](https://drive.google.com/open?id=1qHfM_APQ4BTpzUdQc7X_51RGU5Mpi5De) (ver subsección 2.C.2)
+- [Paper: ¿Que pasó en las PASO?](https://drive.google.com/open?id=1qHfM_APQ4BTpzUdQc7X_51RGU5Mpi5De) (ver subsección 2.C.2)
 
 ~~~
 pipeline1 = Pipeline([
