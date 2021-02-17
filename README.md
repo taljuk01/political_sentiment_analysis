@@ -720,10 +720,6 @@ Finalmente se eliminaron menciones conjuntas, se aplicó el preprocesamiento a t
 
 Con estos resultados se observa que, en comparación con las elecciones primarias del 11 de agosto, el candidato Mauricio Macri reduce la diferencia de votos con respecto a Alberto Fernández, pero no cuenta con la cantidad de votos necesaria para llegar a un ballotage.
 Este resultado fue calculado el domingo 27/10/2019 a horas 19:23, antes de conocerse los resultados oficiales de las elecciones.  
-Para los escépticos adjuntamos la siguiente conversación de nuestro grupo de wsp (para los más escepticos podemos prestarles nuestros teléfonos para verificar la charla sin ningún problema :D):  
-
-![](/imagenes/prueba.jpeg)
-![](/imagenes/tabu.jpeg)
 
 Luego de publicarse los escrutinios finales, se pudo llevar a cabo la comparación. En la siguiente tabla se adjuntan los resultados reales ocurridos en las elecciones del 27/10/2019:
 
